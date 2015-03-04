@@ -1,0 +1,8 @@
+{
+  "name": "font-roboto",
+  "version": "0.5.5-offline",
+  "private": true,
+  "dependencies": {
+    "roboto-fontface": "~0.3.0"
+  }
+}
